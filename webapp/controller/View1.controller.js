@@ -8,6 +8,9 @@ sap.ui.define([
 		onInit: function () {
 
 		},
+		onPressCancel: function (){
+			MessageBox.alert("Page Cancelled");
+		},
 		onPress: function (){
 			MessageBox.alert("Successfully Registered");
 		}
