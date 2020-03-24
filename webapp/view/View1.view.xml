@@ -8,7 +8,6 @@
 						<Input placeholder="Enter Last Name"/>
 						<Button text="Register" press="onPress"/>
 						<Button text="Cancel" press="onPressCancel"/>
-						asdfghgh
 					
 						
 					</content>
